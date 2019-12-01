@@ -5,8 +5,8 @@ library("scales")
 ####select dataset####
 setwd("/home/moestmar/Dropbox/CAPTURE_Steven/SF_Markus/NEW_FILES")
 list.files()
-#data1 <- ("VF_POLSUBALL_75_OM1_IG50_BGSFS_NORECRATE")                                                
-data2 <- ("VF_POLSUBALL_75_OM1_IG50_BGSFSwALL_NORECRATE")
+data1 <- ("VF_POLSUBALL_75_OM1_IG50_BGSFS_NORECRATE")                                                
+#data2 <- ("VF_POLSUBALL_75_OM1_IG50_BGSFSwALL_NORECRATE")
 
 
 
