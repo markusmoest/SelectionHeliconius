@@ -1,0 +1,1 @@
+This directory contains a summary table for the summary statistics calculated across all populations and scaffolds. In addition it contains two subdirectories with all summary statistics calculated in sliding windows and plotted in S11 Fig and S22 Fig, and Fig 4. 

@@ -36,8 +36,7 @@
 ###
 ### scaffolds must be spaced by commas only (or one per line if a file is provided) and when given on command line add quotes
 ###
-### WITH MULTIPLE POPS, THERE IS AN ISSUE WITH POLARIZATION IN THE CURRENT VERSION - USE ONE POP
-### with or without OUTGROUP ONLY
+### USE ONLY ONE FOCAL POP with or without OUTGROUP
 ###
 ### --addMono adds sites monomorphic in the ingroup but substitutions compared to outgroup (=substitutions), e.g. x=10, n=10, folded=0
 ### --addMonoall adds sites that are fixed for the same allele  in both in- and outgroup and polarized, e.g. x=0, n=10, folded=0, and if there are not enough outgroup samples for polarization but all alleles present are identical, it adds unpolarized monomorphic sites, i.e. x=0, n=10 folded=1

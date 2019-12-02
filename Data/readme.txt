@@ -1,0 +1,1 @@
+The directory contains quantitative data underlying the figures in the manuscript. More details can be found in the readme.txt files in the respective subdirectories. Code used to produce the figures can be found in the "Code" directory in this repository. 
